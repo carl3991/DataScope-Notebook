@@ -8,7 +8,7 @@ This project explores pricing trends in the used car market using regression mod
 - Compare multiple regression techniques: Random Forest, XGBoost, Linear Regression for the best fit
 
 ##  Key Findings
-- `car_age` is highly correlated with price and improves model performance
+- `car_age` feature is highly correlated with price and improves model performance
 - Random Forest delivered the most balanced results with an R² of 0.90 and low residual bias
 - Residuals from both models showed near-normal distribution, indicating strong generalization
 
@@ -17,4 +17,4 @@ This project explores pricing trends in the used car market using regression mod
 
 ##  Presented by
 **Carl Legros**  
-🔗 [LinkedIn](https://www.linkedin.com/in/carllegros/) 
+[LinkedIn](https://www.linkedin.com/in/carllegros/) 
