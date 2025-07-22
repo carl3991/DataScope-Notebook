@@ -17,4 +17,4 @@ This project explores pricing trends in the used car market using regression mod
 
 ##  Presented by
 **Carl Legros**  
-🔗 [LinkedIn](https://www.linkedin.com/in/carllegros/) • 🔗 [GitHub](https://github.com/carl3991)
+🔗 [LinkedIn](https://www.linkedin.com/in/carllegros/) 
