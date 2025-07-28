@@ -9,7 +9,7 @@ This project explores pricing trends in the used car market using regression mod
 
 ##  Key Findings
 - `car_age` feature is highly correlated with price and improves model performance
-- Random Forest delivered the most balanced results with an R² of 0.90 and low residual bias
+- Random Forest delivered the most balanced results with an R^2 of 0.90 and low residual bias
 - Residuals from both models showed near-normal distribution, indicating strong generalization
 
 
