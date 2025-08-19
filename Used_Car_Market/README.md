@@ -1,6 +1,6 @@
 # Used Car Market Analysis
 
-This project explores pricing trends in the used car market using regression models and feature engineering. After analyzing key features, transforming `year` into `car_age` dramatically improved model performance.
+This project explores pricing trends in the used car market using regression and decision tree models, and feature engineering. After analyzing key features, transforming `year` into `car_age` significantly improved model performance.
 
 ## Goals
 - Predict used car prices based on structured data
