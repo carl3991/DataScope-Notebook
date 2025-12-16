@@ -11,7 +11,7 @@ Both projects analyze used car markets but **with different datasets and busines
 ##  Key Findings
 - Transforming `year` into `car_age` significantly improved model performance.
 - Both projects suggested that `car_age` and `mileage` features are the dominant predictors for predicting used car prices
-- Random Forest Regressor and Classifier delivered the most balanced results in predicting car price and inn classifying young vs old cars
+- Random Forest Regressor and Classifier delivered the most balanced results in predicting car price and in classifying young vs old cars
 
 
 ##  Presented by
