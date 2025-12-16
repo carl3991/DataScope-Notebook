@@ -5,13 +5,13 @@ Both projects analyze used car markets but **with different datasets and busines
 
 ## Goals
 - Predict used car prices based on structured data
-- Transforming `year` into `car_age` significantly improved model performance.
+- Apply feature engineering to improve model accuracy
 - Compare multiple regression techniques: Random Forest, XGBoost, Linear Regression for the best fit
 
 ##  Key Findings
+- Transforming `year` into `car_age` significantly improved model performance.
 - Both projects suggested that `car_age` and `mileage` features are the dominant predictors for predicting used car prices
 - Random Forest Regressor and Classifier delivered the most balanced results in predicting car price and inn classifying young vs old cars
-- Residuals from both models showed near-normal distribution, indicating strong generalization
 
 
 ##  Presented by
