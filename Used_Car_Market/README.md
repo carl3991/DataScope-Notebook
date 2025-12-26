@@ -14,7 +14,4 @@ Both projects analyze used car markets but **with different datasets and busines
 - Random Forest Regressor and Classifier delivered the most balanced results in predicting car price and in classifying young vs old cars
 
 
-##  Presented by
-**Carl Legros**  
-[LinkedIn](https://www.linkedin.com/in/carllegros/) 
 
